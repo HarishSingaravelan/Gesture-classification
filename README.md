@@ -37,6 +37,6 @@ This project focuses on classifying Electromyography (EMG) data to distinguish b
 ## 📦 Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/HarishSingaravelan/Gesture-classification
+cd Gesture-classification
 pip install -r requirements.txt
